@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginFood</string>
+    <string name="signup">Sign Up</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="desc">the biggest shop to sell flower</string>
+    <string name="flower_shop">Flower Shop</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have An Account ? Sign Up</string>
+</resources>
